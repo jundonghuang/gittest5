@@ -4,3 +4,5 @@ hello hi
 add in master
 add in branch1
 
+save stash
+
